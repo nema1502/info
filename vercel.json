@@ -1,15 +1,4 @@
 {
-  "projectSettings": {
-    "sourceFilesOutsideRootDirectory": false
-  },
   "buildCommand": "echo 'Build completed'",
-  "outputDirectory": ".",
-  "env": {},
-  "functions": {},
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/"
-    }
-  ]
+  "outputDirectory": "."
 }
